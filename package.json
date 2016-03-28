@@ -1,0 +1,27 @@
+{
+  "name": "s-erialize",
+  "version": "1.0.0",
+  "description": "JS Serializer using json as the wire format",
+  "keywords": [
+    "javascript",
+    "serialize"
+  ],
+  "author": "Emmanuel Harguindey <emmanuel.harguindey@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-mocha-test": "^0.12.7",
+    "jshint-stylish": "^2.1.0",
+    "mocha": "^1.20.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emanuelh/s-erialize.git"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
