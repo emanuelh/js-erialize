@@ -1,2 +1,2 @@
-# js-erialize
+# s-erialize
 Simple javascript serialization
